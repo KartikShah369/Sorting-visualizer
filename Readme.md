@@ -12,11 +12,7 @@ How you can use it:
 - Run the following two commands and you are done. It's that easy.
 
 ```
-pip install -r requirements.txt
-```
-```
-python main.py
-```
+
 Or python3 based on the OS you are on. 
 ***
 ### Sorting algorithms Covered
